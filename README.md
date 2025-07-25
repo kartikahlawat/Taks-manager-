@@ -18,3 +18,8 @@ Run the script to launch an interactive terminal dashboard and keep a log of you
 1. Clone the repository:
    ```bash
    git clone https://github.com/kartikahlawat/Taks-manager-.git
+   ## Screenshots
+## Screenshots
+
+![Screenshot 1](images/screenshot1.png)
+![Screenshot 2](images/screenshot2.png)
