@@ -4,9 +4,9 @@ system_monitor.py is the core Python script powering the Task Manager. It uses t
 
 
 
-Key Features:
+Key Features:CCC
 
-Resource Monitoring: Tracks CPU, memory, disk I/O, and network usage over time.
+Resource Monitoring: Tracks CPU, memory, disk I/O, and network usage over time.c
 Process Display: Lists the top active processes with details including PID, name, CPU and memory usage, and command.
 System Information: Shows operating system details and battery status (if available).
 Real-time Dashboard: Presents all statistics in a dynamic terminal dashboard with graphs and tables.
